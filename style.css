@@ -1,0 +1,226 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+		font-weight:600;
+}
+.header_wrapper{
+	width: 100%;
+}
+
+.header{
+	width: 960px;
+	margin: 0 auto;
+    
+}
+.first_header{
+	padding-top: 15px;
+    overflow: hidden;
+    border-bottom: 1px solid #eee;
+	
+}
+
+.logo{
+	float: left;
+}
+.logo_text{
+	float: left;
+	padding-left: 13px;
+	margin-top: -7px;
+
+}
+.logo_img{
+	float: left;
+}
+
+.social ul{
+	list-style: none;
+	
+
+}
+
+.social ul li {
+	display: inline-block;
+	position: relative;
+}
+
+.social{
+	float: right;
+}
+
+.social #twitter{
+
+}
+.social #cur{
+position: absolute;
+top: 16px;
+left: 15px;
+}
+
+
+
+.second_header{
+	overflow: hidden;
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+.menu ul{
+	list-style: none;
+	
+    padding: 0;
+}
+
+.menu ul li {
+	display: inline-block;
+	padding-right: 25px;
+	font-family: sans-serif;
+}
+
+.menu{
+	float: left;
+}
+.menu span{
+	color: #00C860;
+}
+
+
+.slider_wrapper{
+	width: 100%;
+	
+}
+
+.slider{
+	width: 960px;
+	margin: 0 auto;
+	height: 300px;
+    
+}
+
+.slider_backimg{
+	
+}
+.slider_img{
+position: relative;
+top: -400px;
+}
+
+
+.slider_content {
+	text-align: center;
+	width: 800px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-transform: uppercase;
+	color: #B1B1B1;
+
+}
+
+.slider_buuton {
+	position: relative;
+	left: 300px;
+
+	
+}
+.slider_buuton h4{
+background-color: #2DCC70;
+	width: 200px;
+	height: 30px;
+	padding-top: 8px;
+	padding-left: 15px;
+color: white;
+margin: 0; 
+}
+
+
+
+.first_footer_wrapper{
+	width: 100%;
+	background: #332F30;
+	height: 100px;
+}
+
+.first_footer{
+	width: 960px;
+	margin: 0 auto;
+	height:px;
+    overflow: hidden;
+}
+
+.f_footer_text{
+margin-top: 20px;
+float: left;
+color: white;
+
+}
+
+.f_footer_button h4{
+	text-align: center;
+	float: right;
+	background-color: #2DCC70;
+	width: 250px;
+	height: 35px;
+	margin-top: px;
+	padding-left: px;
+	padding-top: 10px;
+	padding-bottom: -7px;
+color: white;
+margin: 0;
+
+}
+
+
+.f_footer_button{
+	margin-top: 32px;
+
+}
+
+
+.second_footer_wrapper{
+	width: 100%;
+	background: #EFEFEF;
+	height: px;
+}
+
+.second_footer{
+	width: 960px;
+	margin: 0 auto;
+	height:px;
+    overflow: hidden;
+}
+
+.s_footer_text{
+	float: left;
+	font-size: 12px;
+	padding-top: 8px;
+    color: #B1B1B1;
+}
+
+
+
+.footer_menu ul{
+float: right;
+}
+
+.footer_menu ul li{
+display: inline-block;
+padding-right: 5px;
+font-size: 12px;
+color: #B1B1B1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
